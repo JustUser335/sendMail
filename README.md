@@ -1,1 +1,1 @@
-# sendMail
+# php script send mail
